@@ -1,0 +1,1 @@
+var newStr = str.substring(1);
